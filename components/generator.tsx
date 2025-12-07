@@ -46,8 +46,16 @@ export function Generator() {
   return (
     <div className="container mx-auto px-4 py-12 max-w-7xl">
       <div className="text-center mb-12">
-        <h1 className="text-5xl md:text-6xl font-bold text-balance mb-4 bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
-          Create Banner with AI
+        <h1 className="text-5xl md:text-6xl font-extrabold text-balance mb-6">
+          <span className="bg-gradient-to-r from-pink-500 via-violet-500 to-emerald-400 bg-clip-text text-transparent drop-shadow-[0_2px_18px_rgba(236,72,153,0.3)]">
+            Create&nbsp;
+          </span>
+          <span className="bg-gradient-to-tr from-teal-400 via-indigo-500 to-amber-400 bg-clip-text text-transparent drop-shadow-[0_2px_18px_rgba(16,185,129,0.3)] animate-pulse">
+            Banner&nbsp;
+          </span>
+          <span className="bg-gradient-to-l from-amber-400 via-red-400 to-pink-600 bg-clip-text text-transparent drop-shadow-[0_2px_18px_rgba(251,191,36,0.3)]">
+            with AI
+          </span>
         </h1>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
           Generate a stunning banner in a single dimension. Just describe what you want and let AI bring it to life.
