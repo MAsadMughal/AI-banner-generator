@@ -2,7 +2,7 @@
 
 A modern, lightning-fast web application for generating high-quality AI-powered banner images from text prompts. Create stunning 1200x628px banners in seconds using the Pollinations.ai API.
 
-**Live Demo:** https://ai-banner-generator-ebon.vercel.app
+**Live Demo:** https://ai-banners.vercel.app
 
 ## 🎯 Overview
 
